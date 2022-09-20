@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.comment{
+  background-color: darkolivegreen;
+  color: whitesmoke;
+  margin: 10px;
+  padding: 20px;
+  border: 3px solid rgb(123, 11, 250);
+  border-radius: 20px;
+}
+.comment h2{
+  color: rgb(24, 219, 245);
+}
+.comment h3{
+  color: goldenrod;
+}
